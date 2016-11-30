@@ -9,6 +9,7 @@ Step1). Start your WebLogic Server an Login to the AdminConsole.
 Step2). Create a JMS Server…
 
 Creating JMS Server
+
 Creating JMS Server-2
 Selecting JMS Server Store Type
 Configuring JMS Store
