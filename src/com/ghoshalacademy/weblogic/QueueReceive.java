@@ -11,7 +11,7 @@ public class QueueReceive implements MessageListener
     public final static String SERVER="t3://localhost:7001";
     public final static String JNDI_FACTORY="weblogic.jndi.WLInitialContextFactory";
     public final static String JMS_FACTORY="QCF";
-    public final static String QUEUE="queue/miCola";
+    public final static String QUEUE="wsqueue";
     private QueueConnectionFactory qconFactory;
     private QueueConnection qcon;
     private QueueSession qsession;
