@@ -3,6 +3,7 @@ Ejemplo y Test de Colas en Oracle WebService Server 12c
 
 
 ----Config JMS server Connection Factory and queue---------
+
 Step1). Start your WebLogic Server an Login to the AdminConsole.
 
 Step2). Create a JMS Server…
